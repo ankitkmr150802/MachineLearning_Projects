@@ -29,3 +29,5 @@ node backend/server.js
 ### 3️⃣ Access the Web App
 Open http://localhost:5000/ in your browser
 Enter house details & get the predicted price
+
+![House Price App](HousePricePred.png)
