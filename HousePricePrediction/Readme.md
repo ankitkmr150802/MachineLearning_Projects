@@ -17,3 +17,15 @@ This is a **Machine Learning-powered web app** that predicts **house prices** ba
 ```bash
 git clone https://github.com/your-username/HousePricePrediction.git
 cd HousePricePrediction
+ ```
+
+### 2️⃣ Set Up Backend (Python)
+Install dependencies:
+pip install -r backend/requirements.txt
+
+### Start the backend server:
+node backend/server.js
+
+### 3️⃣ Access the Web App
+Open http://localhost:5000/ in your browser
+Enter house details & get the predicted price
